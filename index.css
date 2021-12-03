@@ -1,0 +1,10 @@
+body {
+    background-image: url('example_img_girl.jpg');
+    background-repeat: no-repeat;
+  }
+footer{
+    background-color: grey;
+    object-fit: fill;
+    text-decoration-color: blanchedalmond;
+}
+
